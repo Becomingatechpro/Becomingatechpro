@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Becomingatechpro
+- 👋 Hi, I’m @KaoaraImam
 - 👀 I’m interested in SQL, Powebi, Tableau
 - 🌱 I’m currently learning SQL & PowerB1
 - 💞️ I’m looking to collaborate on Project 
